@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-🏡 [website][website] **|**  __
 🐦 [twitter][https://twitter.com/chafroud_tarek] **|**  <br />
 📺 [facebook][https://www.facebook.com/tarek.chaf/] **|**  <br />
 📷 [instagram][https://www.instagram.com/chafroudtarek/?hl=fr] **|**  <br />
