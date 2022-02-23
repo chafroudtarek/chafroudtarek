@@ -1,4 +1,7 @@
 # Hi folks, I'm Tarek -  👋 
+
+"Passion is energy. Feel the power that comes from focusing on what excites you." -Oprah Winfrey
+
 ## I'm a fullStack Developer 
 
 - 🔭 I’m currently working on : Personal Projects & internship
@@ -8,7 +11,7 @@
 - ⚡ Fun fact: I love to sell things and talk to strangers with common interests
 
 ### Connect with me:
-
+🏡 [email][chafroudtarek6@gmail.com] **|** <br />
 🐦 [twitter][https://twitter.com/chafroud_tarek] **|**  <br />
 📺 [facebook][https://www.facebook.com/tarek.chaf/] **|**  <br />
 📷 [instagram][https://www.instagram.com/chafroudtarek/?hl=fr] **|**  <br />
