@@ -1,7 +1,7 @@
 # Hi folks, I'm Tarek -  👋 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a fullStack Developer 
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 I’m currently working on : Personal Projects & internship
 - 🌱 I’m currently learning Angular, react, nodejs,Architecture/Scaling,AWS..
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about web/mobile 
@@ -11,9 +11,9 @@
 
 🏡 [website][website] **|** 
 🐦 [twitter][https://twitter.com/chafroud_tarek] **|** 
-📺 [facebook][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+📺 [facebook][https://www.facebook.com/tarek.chaf/] **|** 
+📷 [instagram][https://www.instagram.com/chafroudtarek/?hl=fr] **|** 
+👔 [linkedin][https://www.linkedin.com/in/tarek-chafroud-6725711bb/]
 
 ----
 
