@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to sell things and talk to strangers with common interests
 
 ### Connect with me:
-🏡 [email][chafroudtarek6@gmail.com] **|** <br />
+🏡 [email][chafroudtarek3@gmail.com] **|** <br />
 🐦 [twitter][https://twitter.com/chafroud_tarek] **|**  <br />
 📺 [facebook][https://www.facebook.com/tarek.chaf/] **|**  <br />
 📷 [instagram][https://www.instagram.com/chafroudtarek/?hl=fr] **|**  <br />
