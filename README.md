@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Angular, react, nodejs,Architecture/Scaling,AWS..
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Learn more about web / devops
-- ⚡ Fun fact: I love to sell things and talk to strangers with common interests
+- ⚡ Fun fact: I love to sell things 
 
 ### Connect with me:
 🏡 [email][chafroudtarek3@gmail.com] **|** <br />
