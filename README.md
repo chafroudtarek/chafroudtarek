@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on : Personal Projects & internship
 - 🌱 I’m currently learning Angular, react, nodejs,Architecture/Scaling,AWS..
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about web / devops
+- 🥅 2024 Goals: Learn more about web / devops
 - ⚡ Fun fact: I love to sell things and talk to strangers with common interests
 
 ### Connect with me:
