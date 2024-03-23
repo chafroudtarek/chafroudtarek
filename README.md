@@ -4,7 +4,7 @@
 
 ## I'm a fullStack Developer 
 
-- 🔭 I’m currently working on : Personal Projects & internship
+- 🔭 I'm currently immersed in exciting projects, both for my company and on a personal level
 - 🌱 I’m currently learning Angular, react, nodejs,Architecture/Scaling,AWS..
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Learn more about web / devops
