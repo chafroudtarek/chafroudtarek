@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **contact@tarekchafroud.tech**
 
-- 📄 Know about my experiences [here](https://www.chafroudtarek.tn/)
-
 - ⚡ Fun fact **My goal is to visit a new country every year**
 
 ### Blogs posts
