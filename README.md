@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Chafroud</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" style="margin-bottom:20px" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chafroudtarek&label=Profile%20views&color=0e75b6&style=flat" alt="chafroudtarek" /> </p>
+<p align="left" style="margin-top:80px"> <img src="https://komarev.com/ghpvc/?username=chafroudtarek&label=Profile%20views&color=0e75b6&style=flat" alt="chafroudtarek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chafroudtarek" alt="chafroudtarek" /></a> </p>
 
@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Devops,Web optimization**
 
-- 👨‍💻 All of my projects are available at [comming soon...](comming soon...)
 
 - 📝 I regularly write articles on [https://dev.to/chafroudtarek](https://dev.to/chafroudtarek)
 
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **contact@tarekchafroud.tech**
 
-- 📄 Know about my experiences [https://www.chafroudtarek.tn/](https://www.chafroudtarek.tn/)
+- 📄 Know about my experiences [here](https://www.chafroudtarek.tn/)
 
 - ⚡ Fun fact **My goal is to visit a new country every year**
 
@@ -39,9 +38,5 @@
 <p><a href="https://www.buymeacoffee.com/chafroudtarek"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chafroudtarek" /></a><a href="https://ko-fi.com/chafroudtarek"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chafroudtarek" /></a></p><br><br>
 
 
-<p><img align="right" style="margin-top:20px;width:380px;height:195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chafroudtarek&show_icons=true&locale=en&layout=compact" alt="chafroudtarek" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chafroudtarek&show_icons=true&locale=en" alt="chafroudtarek" /></p>
-
-<p><img align="left" style="margin-top:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=chafroudtarek&" alt="chafroudtarek" /></p>
 
