@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react,nextjs,expressjs,nestjs**
 
-- 📫 How to reach me **contact@tarekchafroud.tech**
+- 📫 How to reach me **contact@tarekchafroud.tech** // **chafroudtarek3@gmail.com**
 
 
 ### Blogs posts
