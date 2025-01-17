@@ -3,8 +3,6 @@
 
 <p align="left" style="margin-top:80px"> <img src="https://komarev.com/ghpvc/?username=chafroudtarek&label=Profile%20views&color=0e75b6&style=flat" alt="chafroudtarek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chafroudtarek" alt="chafroudtarek" /></a> </p>
-
 - 🔭 I’m currently working on **BMDRM**
 
 - 🌱 I’m currently learning **Devops,Web optimization**
