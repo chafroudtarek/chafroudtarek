@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek Chafroud</h1>
-<h3 align="center">A passionate Software emgineer</h3>
+<h3 align="center">A passionate Software engineer</h3>
 
 <p align="left" style="margin-top:80px"> <img src="https://komarev.com/ghpvc/?username=chafroudtarek&label=Profile%20views&color=0e75b6&style=flat" alt="chafroudtarek" /> </p>
 
