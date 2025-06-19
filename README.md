@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react,nextjs,expressjs,nestjs**
 
-- 📫 How to reach me **contact@tarekchafroud.tech** // **chafroudtarek3@gmail.com**
+- 📫 How to reach me **chafroudtarek3@gmail.com**
 
 
 ### Blogs posts
